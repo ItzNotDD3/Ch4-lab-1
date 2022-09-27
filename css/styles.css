@@ -1,0 +1,13 @@
+/*
+Author:  Derrick Davis
+Date: 9/27/2022
+File Name: styles.css
+/*
+
+/* CSS Reset */
+body, header, nav, main, footer, img, h1 {
+margin:0;
+padding:0;
+border:0;
+
+}
